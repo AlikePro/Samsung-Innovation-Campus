@@ -2,3 +2,4 @@ This repository tracks my progress during the Samsung Innovation Campus program.
 The documents "UNIT 39" & "UNIT 40" consist of mini-projects that were mandatory during the course. 
 The .rar document contains material that is needed for 39 and 40 units. It enables you to execute the code by yourself!
 This program enabled me to thrive in data analytics, so if you're interested too, you can check it out!
+Also, I uploaded final exam of the Samsung Innovation Campus course just in case. It has comments, so you won't get lost!
